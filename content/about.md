@@ -1,10 +1,32 @@
-About this site
+Joels Om-sida
 ==============================================
 
 The primary focus of this site is to:
 
 * To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
+The source for this site is available on GitHub in [Yoooal/anax-flat](https://github.com/Yoooal/Anax-Flat).
 
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+This site is produced by Joel Pettersson
+
+---
+views:
+    aboutPic:
+        region: main
+        template: default/image
+        data:
+            src: "img/about.png"
+    byline:
+        region: after-main
+        template: default/content
+        sort: 1
+        data:
+            meta:
+                type: content
+                route: block/byline
+    bylinePic:
+        region: after-main
+        template: default/image
+        data:
+            src: "img/byline.jpg"
+...

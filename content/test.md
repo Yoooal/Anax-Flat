@@ -8,15 +8,3 @@ The primary focus of this site is to:
 The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
 
 This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
-
----
-views:
-    byline:
-        region: after-main
-        template: default/content
-        sort: 1
-        data:
-            meta:
-                type: content
-                route: block/byline
-...
