@@ -15,7 +15,7 @@ TARGET_COLOR	= \033[32;01m
 OK_COLOR		= \033[32;01m
 ERROR_COLOR		= \033[31;01m
 WARN_COLOR		= \033[33;01m
-ACTION			= $(TARGET_COLOR)--> 
+ACTION			= $(TARGET_COLOR)-->
 HELPTEXT 		= "$(ACTION)" `egrep "^\# target: $(1) " Makefile | sed "s/\# target: $(1)[ ]\+- / /g"` "$(NO_COLOR)"
 
 

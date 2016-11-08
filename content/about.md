@@ -1,14 +1,3 @@
-Joels Om-sida
-==============================================
-
-The primary focus of this site is to:
-
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
-
-The source for this site is available on GitHub in [Yoooal/anax-flat](https://github.com/Yoooal/Anax-Flat).
-
-This site is produced by Joel Pettersson
-
 ---
 views:
     aboutPic:
@@ -30,3 +19,14 @@ views:
         data:
             src: "img/byline.jpg"
 ...
+
+Joels Om-sida
+==============================================
+
+The primary focus of this site is to:
+
+* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+
+The source for this site is available on GitHub in [Yoooal/anax-flat-theme](https://github.com/Yoooal/anax-flat-theme).
+
+This site is produced by Joel Pettersson
