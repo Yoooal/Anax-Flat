@@ -20,8 +20,7 @@ views:
             src: "img/byline.jpg"
 ...
 
-Joels Om-sida
-==============================================
+<h2>Joels Om-sida</h2>
 
 The primary focus of this site is to:
 

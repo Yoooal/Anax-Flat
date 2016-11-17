@@ -17,7 +17,21 @@ return [
             "home" => [
                 "text"  => t("Home"),
                 "url"   => $this->di->get("url")->create("index"),
-                "title" => t("Reports from kmom assignments"),
+                "title" => t("Homepage"),
+                "mark-if-parent" => true,
+            ],
+
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("typography"),
+                "mark-if-parent" => true,
+            ],
+
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Gridpage"),
                 "mark-if-parent" => true,
             ],
 
@@ -54,6 +68,20 @@ return [
                 "text"  => t("Home"),
                 "url"   => $this->di->get("url")->create("index"),
                 "title" => t("Reports from kmom assignments"),
+                "mark-if-parent" => true,
+            ],
+
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("typography"),
+                "mark-if-parent" => true,
+            ],
+
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Gridpage"),
                 "mark-if-parent" => true,
             ],
 
