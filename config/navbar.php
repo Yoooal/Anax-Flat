@@ -15,7 +15,7 @@ return [
         "items" => [
 
             "home" => [
-                "text"  => t("Home"),
+                "text"  => t("Hem"),
                 "url"   => $this->di->get("url")->create("index"),
                 "title" => t("Homepage"),
                 "mark-if-parent" => true,
@@ -43,9 +43,16 @@ return [
             ],
 
             "analysis" => [
-                "text"  => t("Analysis"),
+                "text"  => t("Analys"),
                 "url"   => $this->di->get("url")->create("analysis"),
-                "title" => t("analysis"),
+                "title" => t("analys"),
+                "mark-if-parent" => true,
+            ],
+
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("blogg"),
                 "mark-if-parent" => true,
             ],
 
@@ -53,6 +60,13 @@ return [
                 "text"  => t("Teman"),
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => t("theme"),
+                "mark-if-parent" => true,
+            ],
+
+            "images" => [
+                "text"  => t("Bilder"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Bilder"),
                 "mark-if-parent" => true,
             ],
 
@@ -79,9 +93,9 @@ return [
         "items" => [
 
             "home" => [
-                "text"  => t("Home"),
+                "text"  => t("Hem"),
                 "url"   => $this->di->get("url")->create("index"),
-                "title" => t("Reports from kmom assignments"),
+                "title" => t("Homepage"),
                 "mark-if-parent" => true,
             ],
 
@@ -107,9 +121,16 @@ return [
             ],
 
             "analysis" => [
-                "text"  => t("Analysis"),
+                "text"  => t("Analys"),
                 "url"   => $this->di->get("url")->create("analysis"),
-                "title" => t("analysis"),
+                "title" => t("analys"),
+                "mark-if-parent" => true,
+            ],
+
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("blogg"),
                 "mark-if-parent" => true,
             ],
 
@@ -117,6 +138,13 @@ return [
                 "text"  => t("Teman"),
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => t("theme"),
+                "mark-if-parent" => true,
+            ],
+
+            "images" => [
+                "text"  => t("Bilder"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Bilder"),
                 "mark-if-parent" => true,
             ],
 

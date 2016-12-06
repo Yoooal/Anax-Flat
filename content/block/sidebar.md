@@ -1,1 +1,12 @@
-Här är en sidebar som jag tycker är jättefin.
+### Här är en sidebar:
+
+- Här är en lista
+- Här är en lista
+- Här är en lista
+- Här är en lista
+- Här är en lista
+- Här är en lista
+- Här är en lista
+- Här är en lista
+- Här är en lista
+- Här är en lista
