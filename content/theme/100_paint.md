@@ -1,6 +1,6 @@
-# Teman
+# Färgteman
 
-Genom <a href="index.php/theme-selector">Temaväljaren</a> kan du testa de olika teman jag valt här nedan.
+Genom **<a href="index.php/theme-selector">Temaväljaren</a>** kan du testa de olika teman jag valt här nedan.
 
 
 ## Base

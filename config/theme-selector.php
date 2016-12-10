@@ -71,10 +71,54 @@ return [
 
         "separator2" => "------------------------------------------------",
 
-        "fun"       => [
-            "title"      => "All fun, test and play, make it stand out!",
-            "class"      => "fun",
-            "stylesheets" => []
+        "contrast"       => [
+            "title"      => "A theme that is focused on contrast",
+            "class"      => "contrast",
+            "stylesheets" => [
+                "css/contrast.min.css"
+            ]
+        ],
+
+        "negative"       => [
+            "title"      => "A theme that is focused on negative space",
+            "class"      => "negative",
+            "stylesheets" => [
+                "css/negative.min.css"
+            ]
+        ],
+
+        "texture"       => [
+            "title"      => "A theme that is focused on texture",
+            "class"      => "texture",
+            "stylesheets" => [
+                "css/texture.min.css"
+            ]
+        ],
+
+        "separator3" => "------------------------------------------------",
+
+        "ocean"       => [
+            "title"      => "A Ocean theme",
+            "class"      => "ocean",
+            "stylesheets" => [
+                "css/ocean.min.css"
+            ]
+        ],
+
+        "blackWhite"       => [
+            "title"      => "A Black & White theme",
+            "class"      => "blackWhite",
+            "stylesheets" => [
+                "css/blackWhite.min.css"
+            ]
+        ],
+
+        "gradient"       => [
+            "title"      => "A Gradient theme",
+            "class"      => "gradient",
+            "stylesheets" => [
+                "css/gradient.min.css"
+            ]
         ],
     ]
 ];

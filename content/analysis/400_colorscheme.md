@@ -15,7 +15,7 @@
     <div class="part4"></div>
 </div>
 
-Apple använder sig mycket av olika ljusgråa färger/nyanser och vita ytor i sitt färgschema.
+**[Apple](http://www.apple.com/)** använder sig mycket av olika ljusgråa färger/nyanser och vita ytor i sitt färgschema.
 Ett färgschema skapar en ljus, fräsch och stilren känsla för besökarna.
 Den accentfärg som används är en sorts blå-grön, fast ändå diskret och matt,
 färg som får hemsidan att kännas mer levande och unik. Jag vet inte om den
@@ -45,7 +45,7 @@ och stilrena känsla som har gjort Apple framgångsrika.
     <div class="part4"></div>
 </div>
 
-SvT-play använder sig mycket av mörka
+**[SvT Play](http://www.svtplay.se/)** använder sig mycket av mörka
 färger, som svart och mörkgrått, och väldigt få vita ytor i sitt färgschema.
 
 Den accentfärg som används är en sorts limegrön färg som bryter det annars så
@@ -75,7 +75,7 @@ videoklippet.
     <div class="part4"></div>
 </div>
 
-Klarna använder sig mycket av blåa
+**[Klarna](https://www.klarna.com/se)** använder sig mycket av blåa
 nyanser/färger och vita ytor i sitt färgschema.
 Likt Apple använder Klarna sig i grunden av en färg, men med flera nyanser.
 Klarna har inriktat sig på olika blåa nyanser som får hemsidan att framstå
@@ -106,7 +106,7 @@ ser som något positivt.
     <div class="part3"></div>
 </div>
 
-Zalando använder sig, likt Apple,
+**[Zalando](https://www.zalando.se/)** använder sig, likt Apple,
 mycket av ljusgråa färger och vita ytor i sitt färgschema.
 Det som skiljer sig mot Apple är att Zalando endast använder sig av
 specifikt en ljusgrå färg, medans Apple använder sig av olika nyanser av
